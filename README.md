@@ -37,4 +37,3 @@ Instruções trabalho de RMI ConsumerProducerRMI:
 
 7-> Se pressionar 0, o cliente terá sua conexão encerrada.
 
-Não pude trabalhar muito neste trabalho, acabei fazendo sozinho.
